@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jordan Idehen and I'm a Student a Brown University (Class of 2022), Full-Stack Web Developer, and Software Engineer. I am pursuing an Sc.B degree in Computer Science with specializations in Data and Computational Biology.
+
 <!--
 **jidehen/jidehen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
