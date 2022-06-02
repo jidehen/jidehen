@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jordan Idehen and I'm a Student a Brown University (Class of 2022), Full-Stack Web Developer, and Software Engineer. I am pursuing an Sc.B degree in Computer Science with specializations in Data and Computational Biology.
+My name is Jordan Idehen and I'm a recent graduate of Brown University (Class of 2022), Full-Stack Web Developer, and Software Engineer. I am pursuing an Sc.B degree in Computer Science with specializations in Data and Computational Biology.
 
 Below is my personal profile document written using [RDF-Turtle](https://medium.com/openlink-software-blog/simple-linked-data-deployment-tutorial-a532e568c82f) Notation. 
 
